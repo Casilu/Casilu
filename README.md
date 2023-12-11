@@ -1,4 +1,5 @@
-- 👋 Meu nome é Carlos Tassi @Casilu
+- 👋 Meu nome é Carlos Tassi 
+- 
 - 👀 Estou estudando na [Alura](https://www.alura.com.br)
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -9,4 +10,4 @@ Casilu/Casilu is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-![]()(https://media1.tenor.com/m/OleZVEwsYAkAAAAC/happy-holidays-merry-christmas.gif)
+![](https://media1.tenor.com/m/OleZVEwsYAkAAAAC/happy-holidays-merry-christmas.gif)
