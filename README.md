@@ -1,9 +1,8 @@
 - 👋 Meu nome é Carlos Tassi 
 - 
 - 👀 Estou estudando na [Alura](https://www.alura.com.br)
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 Estou me desenvolvendo na linguagem JavaScript
+- 💞️ Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 <!---
 Casilu/Casilu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
